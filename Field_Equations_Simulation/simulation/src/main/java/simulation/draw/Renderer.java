@@ -102,8 +102,8 @@ public class Renderer {
 
        
         ShaderProgram shader = new ShaderProgram();
-        shader.createVertexShader(loadResources("C:\\Users\\rohan\\OneDrive\\Programming Projects\\Field_Equations_Simulation\\simulation\\src\\main\\resources\\shader.vs"));
-        shader.createFragmentShader(loadResources("C:\\Users\\rohan\\OneDrive\\Programming Projects\\Field_Equations_Simulation\\simulation\\src\\main\\resources\\fragment.fs"));
+        shader.createVertexShader(loadResources("simulation\src\main\resources\shader.vs"));
+        shader.createFragmentShader(loadResources("simulation\src\main\resources\fragment.fs"));
         shader.link();
 
         float aspectRatio = (float)window.getWidth()/window.getHeight();
