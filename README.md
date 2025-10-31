@@ -12,3 +12,5 @@ D- Move Right
 Space- Move Up
 Left Shift- Move Down
 Left Click + Drag- Rotate camera
+
+[Simulation](screenshot.png)
