@@ -13,4 +13,4 @@ Space- Move Up
 Left Shift- Move Down
 Left Click + Drag- Rotate camera
 
-[Simulation](screenshot.png)
+<img width="955" height="604" alt="Image" src="https://github.com/user-attachments/assets/d249aca8-7852-4945-8e16-582e85c8cba8" />
